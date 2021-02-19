@@ -1,4 +1,4 @@
-# 💊 `Autocomplete Search Bar` 💊
+# 💊 `Cancer Care | Search System` 💊
 
 - [Link to the Deployed App](https://pulse-analytics-coding-challenge.netlify.app/)
 
@@ -7,7 +7,7 @@
 ## `💊 Preferred browser - Google Chrome 💊`
 
   <br/>
-Search Autocomplete System represents real-world application of Suffix-Tries
+Cancer Care | Search System represents real-world application of Suffix-Tries
 
 ---
 
