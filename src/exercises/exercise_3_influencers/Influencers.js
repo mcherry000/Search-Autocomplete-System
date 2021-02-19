@@ -88,24 +88,13 @@ const Influencers = () => {
 
   return (
     <Container>
-      <h1>Pulse Analytics Take Home Assignment ✏️ </h1>
+      <h1>Search for Treatment Centres✏️ </h1>
       <SearchBar
         setSearch={setSearch}
         search={search}
         data={data}
         setData={setData}
       />
-      {/* <button
-        style={{
-          padding: ".5rem",
-          border: "solid 3px green",
-          fontWeight: "bold",
-          margin: "1rem",
-        }}
-        onClick={() => setClick("prior")}
-      >
-        Sort by Priority
-      </button> */}
 
       {data.length && (
         <Table
