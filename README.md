@@ -11,7 +11,7 @@ Cancer Care | Search System represents real-world application of Suffix-Tries
 
 ---
 
-## `💊 How to run this project on your local server to make contributions?`
+## `💊 How to run this project on your local server?`
 
 ```shell
 git clone https://github.com/mcherry000/pulse2021.git
