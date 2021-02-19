@@ -20,7 +20,7 @@ const SearchBar = ({ search, setSearch, data }) => (
     }}
   >
     <Input
-      placeholder="Search indication, affiliation, or position by term..."
+      placeholder="Search by indication, affiliation, or position..."
       aria-label="search"
       onChange={(e) => setSearch(e.target.value)}
       value={search}
