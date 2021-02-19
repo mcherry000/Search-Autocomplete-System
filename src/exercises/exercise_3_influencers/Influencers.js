@@ -88,7 +88,7 @@ const Influencers = () => {
 
   return (
     <Container>
-      <h1>Search for Treatment Centres✏️ </h1>
+      <h1>Search for Oncologists</h1>
       <SearchBar
         setSearch={setSearch}
         search={search}
