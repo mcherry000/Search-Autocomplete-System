@@ -1,6 +1,6 @@
 # 💊 `Cancer Care | Search System`
 
-- [Link to the Deployed App](https://pulse-analytics-coding-challenge.netlify.app/)
+- [Link to the Deployed App](https://cancer-care-search-system.netlify.app/)
 
 ---
 
@@ -14,7 +14,7 @@ Cancer Care | Search System represents real-world application of Suffix-Tries Da
 ## `💊 How to run this project on your local server?`
 
 ```shell
-git clone https://github.com/mcherry000/pulse2021.git
+git clone https://github.com/mcherry000/Search-Autocomplete-System.git
 npm install
 npm start
 ```
@@ -91,11 +91,11 @@ Renders the example data. The App consist of three parts -- a search bar, corres
 
 ## `💊 Dummy data`
 
-Source: Participated in Pulse Analytics 2021 coding challenge
+Source: Participated in Pulse-Analytics 2021 coding challenge
 
 ---
 
-- [💊 To Use the app, click here ](https://pulse-analytics-coding-challenge.netlify.app/)
+- [💊 To Use the app, click here ](https://cancer-care-search-system.netlify.app/)
   <br/>
 
 ---
