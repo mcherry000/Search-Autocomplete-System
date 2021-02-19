@@ -1,4 +1,4 @@
-# 💊 `Search Autocomplete System` 💊
+# 💊 `Autocomplete Search Bar` 💊
 
 - [Link to the Deployed App](https://pulse-analytics-coding-challenge.netlify.app/)
 
