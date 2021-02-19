@@ -7,7 +7,7 @@
 ## `💊 Preferred browser - Google Chrome`
 
   <br/>
-Cancer Care | Search System represents real-world application of Suffix-Tries
+Cancer Care | Search System represents real-world application of Suffix-Tries Data Structures.
 
 ---
 
