@@ -1,4 +1,4 @@
-# 💊 `Search Pulse` 💊
+# 💊 `Search Autocomplete System` 💊
 
 - [Link to the Deployed App](https://pulse-analytics-coding-challenge.netlify.app/)
 
@@ -7,21 +7,11 @@
 ## `💊 Preferred browser - Google Chrome 💊`
 
   <br/>
-Search Pulse is an assigned Frontend Coding challenge. This take home assignment has three distinct exercises that represent real-world problems.
+Search Autocomplete System represents real-world application of Suffix-Tries
 
 ---
 
-## `💊 Prompt 💊`
-
-Given a dataset and a frontend framework, complete the three tasks while following the following constraints :
-
-- Use only JavaScript for this assignment.
-- Do not install additional packages.
-- Refrain from touching the directory structure a challenge.
-
----
-
-## `💊 How to run this project on your local server to this Project? 💊`
+## `💊 How to run this project on your local server to make contributions? 💊`
 
 ```shell
 git clone https://github.com/mcherry000/pulse2021.git
@@ -65,7 +55,7 @@ and webpack will automatically recompile and reload your server (available at `h
 
 ## `💊 Exercises 💊`
 
-- Each exercise has corresponding comments to explain the "why" and "how" of Algorithms.
+- Each exercise has corresponding comments to explain the "why" and "how" of the three Algorithms.
 
 ### 01. `uniqueBy`
 
@@ -77,7 +67,7 @@ Filters an array of data objects by a given search term.
 
 ### 03. `Influencers Display`
 
-Renders the influencers data. The page now consist of three parts -- a search bar, corresponding sort buttons for each column in table, and a display for influencers data.
+Renders the example data. The App consist of three parts -- a search bar, corresponding sort buttons for each column in table, and a display table.
 
 ---
 
@@ -99,9 +89,9 @@ Renders the influencers data. The page now consist of three parts -- a search ba
 
 ---
 
-## `💊 What's missing? 💊`
+## `💊 Dummy data 💊`
 
-A sort-by-priority button. The funtion "sortBy" is yet to be wired to the frontEnd via hooks. The Algorithm underneath has been tested for accuracy and is functional at the time of submission.
+Source: Participated in Pulse Analytics 2021 coding challenge
 
 ---
 
