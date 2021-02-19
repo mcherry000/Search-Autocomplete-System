@@ -1,17 +1,17 @@
-# 💊 `Cancer Care | Search System` 💊
+# 💊 `Cancer Care | Search System`
 
 - [Link to the Deployed App](https://pulse-analytics-coding-challenge.netlify.app/)
 
 ---
 
-## `💊 Preferred browser - Google Chrome 💊`
+## `💊 Preferred browser - Google Chrome`
 
   <br/>
 Cancer Care | Search System represents real-world application of Suffix-Tries
 
 ---
 
-## `💊 How to run this project on your local server to make contributions? 💊`
+## `💊 How to run this project on your local server to make contributions?`
 
 ```shell
 git clone https://github.com/mcherry000/pulse2021.git
@@ -24,7 +24,7 @@ and webpack will automatically recompile and reload your server (available at `h
 
 ---
 
-## `💊 Tech Stack: 💊`
+## `💊 Tech Stack:`
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/html5.svg" />][html]
 
@@ -53,7 +53,7 @@ and webpack will automatically recompile and reload your server (available at `h
 
 ---
 
-## `💊 Exercises 💊`
+## `💊 Exercises`
 
 - Each exercise has corresponding comments to explain the "why" and "how" of the three Algorithms.
 
@@ -89,15 +89,13 @@ Renders the example data. The App consist of three parts -- a search bar, corres
 
 ---
 
-## `💊 Dummy data 💊`
+## `💊 Dummy data`
 
 Source: Participated in Pulse Analytics 2021 coding challenge
 
 ---
 
-## Submission
-
-- [💊 To Use the app, click here 💊 ](https://pulse-analytics-coding-challenge.netlify.app/)
+- [💊 To Use the app, click here ](https://pulse-analytics-coding-challenge.netlify.app/)
   <br/>
 
 ---
