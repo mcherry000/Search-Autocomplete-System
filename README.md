@@ -77,7 +77,7 @@ Renders the example data. The App consist of three parts -- a search bar, corres
 
 ---
 
-## `💊 You can search by word (or an incomplete word). The App will display the closest match(es) pre-sorted in a High-to-Low priority algorithm...`
+## `💊 You can search by word (or an incomplete word). The App will display the closest match(es)...`
 
 ![Anonymous](public/screenThree.png)
 
