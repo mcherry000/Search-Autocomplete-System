@@ -71,24 +71,6 @@ Renders the example data. The App consist of three parts -- a search bar, corres
 
 ---
 
-## `💊 On home screen you'll find a search bar and tabularised data underneath ...`
-
-![Anonymous](public/screenOne.png)
-
----
-
-## `💊 You can search by word (or an incomplete word). The App will display the closest match(es)...`
-
-![Anonymous](public/screenThree.png)
-
----
-
-## `💊 You can also manually sort the columns of the table using toggle-button(s)...`
-
-![Anonymous](public/screenFour.png)
-
----
-
 ## `💊 Dummy data`
 
 Source: Participated in Pulse-Analytics 2021 coding challenge
