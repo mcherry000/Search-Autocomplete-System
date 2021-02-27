@@ -4,14 +4,14 @@
 
 ---
 
-## `💊 Preferred browser - Google Chrome`
+#### `💊 Preferred browser - Google Chrome`
 
   <br/>
 Cancer Care | Search System represents real-world application of Suffix-Tries Data Structures.
 
 ---
 
-## `💊 How to run this project on your local server?`
+#### `💊 How to run this project on your local server?`
 
 ```shell
 git clone https://github.com/mcherry000/Search-Autocomplete-System.git
@@ -24,7 +24,7 @@ and webpack will automatically recompile and reload your server (available at `h
 
 ---
 
-## `💊 Tech Stack:`
+#### `💊 Tech Stack:`
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/html5.svg" />][html]
 
@@ -49,29 +49,29 @@ and webpack will automatically recompile and reload your server (available at `h
 [html]: http://www.w3.org/html/logo/
 [github]: https://github.com/logos
 
-## <br/>
+ <br/>
 
 ---
 
-## `💊 Exercises`
+### `💊 Exercises`
 
 - Each exercise has corresponding comments to explain the "why" and "how" of the three Algorithms.
 
-### 01. `uniqueBy`
+#### 01. `uniqueBy`
 
 Ensures the uniqueness of an array of data objects for a given key.
 
-### 02. `filterBy`
+#### 02. `filterBy`
 
 Filters an array of data objects by a given search term.
 
-### 03. `Influencers Display`
+#### 03. `Influencers Display`
 
 Renders the example data. The App consist of three parts -- a search bar, corresponding sort buttons for each column in table, and a display table.
 
 ---
 
-## `💊 Dummy data`
+#### `💊 Dummy data`
 
 Source: Participated in Pulse-Analytics 2021 coding challenge
 
@@ -82,7 +82,7 @@ Source: Participated in Pulse-Analytics 2021 coding challenge
 
 ---
 
-## `👩‍ Developer Info`
+#### `👩‍ Developer Info`
 
 | Engineer        | LinkedIn Profile                                | GitHub Profile                |
 | --------------- | ----------------------------------------------- | ----------------------------- |
